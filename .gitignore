@@ -1,0 +1,25 @@
+# ============================================================
+# .gitignore – Lab 2: SQLite Database and CRUD Routes
+# Student: V AKHILESH | 252U1R3099 | CSE DS-2B
+# ============================================================
+
+# Node.js dependencies – never commit these
+node_modules/
+
+# Environment variables – never commit secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor
+.vscode/
+.idea/
